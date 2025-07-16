@@ -16,16 +16,12 @@ Cat House is a responsive web application dedicated to cat lovers. The site feat
 - **Responsive Design**: Optimized for all devices using CSS Grid
 - **Interactive Content**: Engaging articles and multimedia content
 - **Modern Layout**: Clean and user-friendly interface
-- **Cat Care Information**: Comprehensive guides on cat care
-- **Breed Information**: Details about popular cat breeds
-- **Fun Facts**: Entertaining and educational content about cats
 
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup structure
 - **CSS3**: Modern styling with CSS Grid layout
 - **CSS Grid**: Advanced layout system for responsive design
-- **JavaScript**: Interactive functionality
 - **Responsive Design**: Mobile-first approach
 
 ## 🎯 CSS Grid Implementation
@@ -83,16 +79,12 @@ Created by [Ira Panasiuk](https://github.com/Ira-Panasiuk-2024)
 - **Адаптивний дизайн**: Оптимізовано для всіх пристроїв з використанням CSS Grid
 - **Інтерактивний контент**: Захоплюючі статті та мультимедійний контент
 - **Сучасний макет**: Чистий та зручний інтерфейс
-- **Інформація про догляд**: Повні посібники з догляду за котами
-- **Інформація про породи**: Деталі про популярні породи котів
-- **Цікаві факти**: Розважальний та навчальний контент про котів
 
 ## 🛠️ Використані технології
 
 - **HTML5**: Семантична структура розмітки
 - **CSS3**: Сучасне стилізування з макетом CSS Grid
 - **CSS Grid**: Передова система макетування для адаптивного дизайну
-- **JavaScript**: Інтерактивна функціональність
 - **Адаптивний дизайн**: Mobile-first підхід
 
 ## 🎯 Реалізація CSS Grid
